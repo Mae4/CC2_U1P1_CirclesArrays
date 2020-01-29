@@ -1,3 +1,9 @@
+/*
+
+This is a project that uses a class to collide circles with one another.
+
+*/
+
 Circle circle[] = new Circle[10];
 
 void setup()
